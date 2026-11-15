@@ -1,0 +1,14 @@
+{
+  "name": "vanthoff007-skills",
+  "description": "Personal collection of agent skills.",
+  "owner": {
+    "name": "Vanthoff007"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./",
+      "description": "A personal collection of agent skills I use day to day."
+    }
+  ]
+}
