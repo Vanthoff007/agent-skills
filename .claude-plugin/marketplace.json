@@ -1,6 +1,6 @@
 {
   "name": "vanthoff007-skills",
-  "description": "Personal collection of agent skills.",
+  "description": "Agent skills for research, divergent thinking and learning.",
   "owner": {
     "name": "Vanthoff007"
   },
@@ -8,7 +8,7 @@
     {
       "name": "agent-skills",
       "source": "./",
-      "description": "A personal collection of agent skills I use day to day."
+      "description": "Agent skills for research, divergent thinking and learning."
     }
   ]
 }
